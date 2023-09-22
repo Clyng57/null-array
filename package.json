@@ -1,0 +1,29 @@
+{
+  "name": "null-array",
+  "version": "1.0.0",
+  "description": "A module for creating a NullArray that only has index and length properties.",
+  "type": "module",
+  "author": "Cal Young",
+  "repository": {
+    "url": "https://github.com/Clyng57/null-array"
+  },
+  "keywords": [
+    "array",
+    "null",
+    "null-array",
+    "plain-array",
+    "nodejs",
+    "javascript",
+    "module",
+    "node",
+    "es6"
+  ],
+  "main": "./index.js",
+  "types": "./types",
+  "standard": {
+    "engine": "standard",
+    "ignore": [
+      "/types"
+    ]
+  }
+}
